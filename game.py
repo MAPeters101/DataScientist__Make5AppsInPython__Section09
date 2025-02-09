@@ -13,7 +13,7 @@ while playing:
 
     window.fill((255,255,255))
 
-    pygame.draw.circle(window, (0,0,255), (300,300), 80)
+    pygame.draw.circle(window, (0,0,255), (300,300), 180)
 
     pygame.display.flip()
 
